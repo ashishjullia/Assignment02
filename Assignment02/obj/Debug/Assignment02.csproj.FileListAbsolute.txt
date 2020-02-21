@@ -1,0 +1,5 @@
+C:\Users\ashis\source\repos\Assignment02\Assignment02\bin\Debug\Assignment02.exe.config
+C:\Users\ashis\source\repos\Assignment02\Assignment02\bin\Debug\Assignment02.exe
+C:\Users\ashis\source\repos\Assignment02\Assignment02\bin\Debug\Assignment02.pdb
+C:\Users\ashis\source\repos\Assignment02\Assignment02\obj\Debug\Assignment02.exe
+C:\Users\ashis\source\repos\Assignment02\Assignment02\obj\Debug\Assignment02.pdb
